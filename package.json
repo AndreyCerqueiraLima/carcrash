@@ -1,0 +1,14 @@
+{
+  "name": "carcrash",
+  "version": "1.0.0",
+  "description": "This project is a carcrash game, have fun!",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
